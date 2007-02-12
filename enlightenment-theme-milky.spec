@@ -1,6 +1,6 @@
 %define	_theme	milky
 Summary:	Adaption of theme Milk for Mac OS X
-Summary(pl):	Adaptacja motywu Milk z Mac OS X
+Summary(pl.UTF-8):   Adaptacja motywu Milk z Mac OS X
 Name:		enlightenment-theme-%{_theme}
 Version:	0.9.8.5C
 Release:	1
@@ -18,9 +18,9 @@ Nice theme for use with E17 window manager. Milky's theme is inspired
 by the work of Max Rudberg. It's an adaptation of his theme Milk for
 Mac OS X.
 
-%description -l pl
-Przyjemny motyw do u¿ywania z zarz±dc± okien E17. Motyw Milky's zosta³
-zainspirowany prac± Maksa Rudberga. Jest to adaptacja jego motywu Milk
+%description -l pl.UTF-8
+Przyjemny motyw do uÅ¼ywania z zarzÄ…dcÄ… okien E17. Motyw Milky's zostaÅ‚
+zainspirowany pracÄ… Maksa Rudberga. Jest to adaptacja jego motywu Milk
 dla Mac OS X.
 
 %prep
