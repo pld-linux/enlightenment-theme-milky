@@ -1,6 +1,6 @@
 %define	_theme	milky
 Summary:	Adaption of theme Milk for Mac OS X
-Summary(pl.UTF-8):   Adaptacja motywu Milk z Mac OS X
+Summary(pl.UTF-8):	Adaptacja motywu Milk z Mac OS X
 Name:		enlightenment-theme-%{_theme}
 Version:	0.9.8.5C
 Release:	1
